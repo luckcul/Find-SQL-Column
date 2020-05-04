@@ -2,7 +2,7 @@
 
 在编写sql过程中，经常需要从子查询语句中选择所有/部分的列名，该VS Code插件可以自动生成和插入所有的子查询列名
 
-![](./image/demo.gif)
+![](https://user-images.githubusercontent.com/10364724/80996798-fec59900-8e72-11ea-8a50-7c3ba548f5af.gif)
 
 ## 安装
 
